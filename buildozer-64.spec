@@ -4,10 +4,10 @@
 title = Mortgage Calculator
 
 # (str) Package name
-package.name = mortgagecalculator
+package.name = Mortgage_Calc
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = org.wiseplat
+package.domain = org.AKAdementor
 
 # (str) Source code where the main.py live
 source.dir = .
